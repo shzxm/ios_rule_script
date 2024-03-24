@@ -10,7 +10,9 @@
 # TOTAL: 29
 HOST,browser-intake-datadoghq.com,OpenAI
 HOST,static.cloudflareinsights.com,OpenAI
+HOST,challenges.cloudflare.com,OpenAI
 HOST-SUFFIX,ai.com,OpenAI
+HOST-SUFFIX,openai.com,OpenAI
 HOST-SUFFIX,algolia.net,OpenAI
 HOST-SUFFIX,api.statsig.com,OpenAI
 HOST-SUFFIX,auth0.com,OpenAI
@@ -34,6 +36,9 @@ HOST-SUFFIX,sentry.io,OpenAI
 HOST-SUFFIX,stripe.com,OpenAI
 HOST-SUFFIX,turn.livekit.cloud,OpenAI
 HOST-KEYWORD,openai,OpenAI
+HOST-SUFFIX,chat.openai.com.cdn.cloudflare.net,OpenAI
+HOST-SUFFIX,openaiapi-site.azureedge.net,OpenAI
+HOST-SUFFIX,invoice.stripe.com,OpenAI
 IP-CIDR,24.199.123.28/32,OpenAI
 IP-CIDR,64.23.132.171/32,OpenAI
 IP-ASN,20473,OpenAI
